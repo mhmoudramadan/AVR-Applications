@@ -1,0 +1,13 @@
+HAL/HBUTTON/HBUTTON_Progam.o HAL/HBUTTON/HBUTTON_Progam.o:  \
+ ../HAL/HBUTTON/HBUTTON_Progam.c ../HAL/HBUTTON/../../LIB/LSTD_TYPES.h \
+  ../HAL/HBUTTON/../../LIB/LBIT_MATH.h \
+  ../HAL/HBUTTON/../../MCAL/MDIO/MDIO_Interface.h \
+  ../HAL/HBUTTON/HBUTTON_Interface.h
+
+../HAL/HBUTTON/../../LIB/LSTD_TYPES.h:
+
+../HAL/HBUTTON/../../LIB/LBIT_MATH.h:
+
+../HAL/HBUTTON/../../MCAL/MDIO/MDIO_Interface.h:
+
+../HAL/HBUTTON/HBUTTON_Interface.h:
