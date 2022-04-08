@@ -1,0 +1,10 @@
+HAL/HEPPROM/HEPPROM_Program.o HAL/HEPPROM/HEPPROM_Program.o:  \
+ ../HAL/HEPPROM/HEPPROM_Program.c ../HAL/HEPPROM/../../LIB/LSTD_TYPES.h \
+  ../HAL/HEPPROM/../../MCAL/MTWI/MI2C_Interface.h \
+  ../HAL/HEPPROM/HEPPROM_Private.h
+
+../HAL/HEPPROM/../../LIB/LSTD_TYPES.h:
+
+../HAL/HEPPROM/../../MCAL/MTWI/MI2C_Interface.h:
+
+../HAL/HEPPROM/HEPPROM_Private.h:
